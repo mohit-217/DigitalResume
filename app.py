@@ -19,7 +19,6 @@ DESCRIPTION = """
 Machine Learning Engineer, Intelligent data extraction from any document.
 """
 EMAIL = "mohit.iiitb@gmail.com"
-#"YouTube": "https://youtube.com/c/codingisfun",
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/mohit-kumar-aaa464149/",
     "GitHub": "https://github.com/themohitkumar",
@@ -73,7 +72,7 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 1.5+ Years expereince extracting data from unstructured and structured documents
+- ✔️ 1.5+ Years expereince intelligent data extraction from unstructured and structured documents
 - ✔️ Strong hands on experience and knowledge in Python and neural netowrks
 - ✔️ Good understanding of different ocr engines and custom training of ocr engines
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
@@ -105,7 +104,7 @@ st.write("🚧", "**Machine Learning Engineer| AutomationEdge Technologies**")
 st.write("02/2021 - Present")
 st.write(
     """
-- ► End to end intelligent Table Data extraction system with text extcation using three different ocr engines and data export in csv
+- ► End to end intelligent Table Data extraction system with text extcation using three different ocr engines and export data in csv
 - ► RTGS-NEFT Form Data Extraction
 - ► Finetuning of ocr Engine on differnt documents
 - ► Opencv Gpu compillation ,Configuring ocr engines model loading mechanism,Exploration of deep learning Algorithm and frameworks
@@ -125,7 +124,7 @@ st.write(
 
 # --- JOB 3
 st.write('\n')
-st.write("🚧", "**Data Analyst Intern | Smartbridge**")
+st.write("🚧", "**Data Analyst Intern **")
 st.write("05/2018 - 06/2018")
 st.write(
     """
