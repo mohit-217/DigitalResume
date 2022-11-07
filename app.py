@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Mohit Kumar"
 PAGE_ICON = ":wave:"
 NAME = "Mohit Kumar"
 DESCRIPTION = """
-Machine Learning Engineer, Intelligent data extraction from any document.
+Machine Learning Engineer, Intelligent data extraction from documents.
 """
 EMAIL = "mohit.iiitb@gmail.com"
 SOCIAL_MEDIA = {
@@ -72,9 +72,9 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 1.5+ Years expereince intelligent data extraction from unstructured and structured documents
-- ✔️ Strong hands on experience and knowledge in Python and neural netowrks
-- ✔️ Good understanding of different ocr engines and custom training of ocr engines
+- ✔️ ~2 Years of expereince on applying different computer vision algorithm and intelligent data extraction from unstructured and structured documents
+- ✔️ Strong hands on experience and knowledge in Python opencv-gpu and neural networks
+- ✔️ Good understanding of different ocr engines and custom training of ocr engines(Specific handwritten text or few specific fonts)
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
 """
 )
@@ -86,10 +86,10 @@ st.subheader("Hard Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Advance oops) 
-- 📊 Deep Learning Frameworks: Tensorflow ,Pytorch
-- 📚 OCREngines: PaddleOcr,Tesseract,Keras-Ocr,Tr-Ocr
+- 📊 Deep Learning Frameworks:Opencv-GPU, Tensorflow ,Pytorch
+- 📚 OCREngines: PaddleOcr,Tesseract,Easyocr,Keras-Ocr,Tr-Ocr
 - 🗄️ Object Detection Frameworks: Detectron2,Yolo(Yolov5,Yolov7)
-- 👁️ Computer Vision:Opencv(Descriptors) ,Opencv with gpu
+- 👁️ Computer Vision:Opencv(Descriptors) ,Opencv with gpu,opencv-python CPU
 """
 )
 
@@ -104,10 +104,10 @@ st.write("🚧", "**Machine Learning Engineer| AutomationEdge Technologies**")
 st.write("02/2021 - Present")
 st.write(
     """
-- ► End to end intelligent Table Data extraction system with text extcation using three different ocr engines and export data in csv
-- ► RTGS-NEFT Form Data Extraction
-- ► Finetuning of ocr Engine on differnt documents
-- ► Opencv Gpu compillation ,Configuring ocr engines model loading mechanism,Exploration of deep learning Algorithm and frameworks
+- ► End to end intelligent Table Data extraction system with three different ocr Engines and text Export to CSV or JSON.
+- ► RTGS-NEFT Form Data Extraction and custom digit recognition
+- ► Finetuning of different ocr Engines for different fonts or specific dictionary of words.
+- ► Opencv Gpu compillation ,exploration of different digital image processing algorithm and implementation on GPU,Exploration of deep learning Algorithm and frameworks
 """
 )
 
